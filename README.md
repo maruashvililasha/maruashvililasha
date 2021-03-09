@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maruashvililasha
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Algorithms and Data structures
+- 🌱 I’m currently learning: Clean Swift (Clean Architecture) + Reactive Progrraming (RxSwift, RxCocoa) with MVVM pattern
 - 📫 How to reach me maruashvililasha@gmail.com
 
 <!---
