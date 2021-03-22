@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maruashvililasha
+- 👋 Hi, I’m Lasha
 - 👀 I’m interested in iOS Development
 - 🛸 I’m currently learning: Uncle Bob's - Clean Architecture, Reactive Programming(RxSwift, RxCocoa), Unit Testsing & Test-Driven Development
 - 📫 How to reach me maruashvililasha@gmail.com
