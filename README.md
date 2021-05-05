@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasha
 - 👀 I’m interested in iOS Development
-- 🛸 I’m currently learning: Uncle Bob's - Clean Architecture, DDD, TDD, SOLID principles, Reactive Programming(RxSwift, RxCocoa)
+- 🛸 I’m currently learning: Uncle Bob's - Clean Architecture, DDD, TDD, SOLID principles, Reactive Programming(RxSwift, RxCocoa), Algorithms and Data Structures
 - 📫 How to reach me maruashvililasha@gmail.com
 - 🏋 Currently working on MyProfile app V2.0, by georgian fintech Money Movers.
 
