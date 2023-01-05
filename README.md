@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasha
 - 👀 interested in iOS Development
-- 🛸 Currently on: Uncle Bob's - Clean Architecture, DDD, TDD, SOLID principles, Reactive Programming(RxSwift, RxCocoa), Algorithms and Data Structures
+- 🛸 Currently on: Uncle Bob's - Clean Architecture, Gang of Four Design Patterns, DDD, TDD, Algorithms and Data Structures
 - 📫 How to reach me maruashvililasha@gmail.com
 
 <!---
