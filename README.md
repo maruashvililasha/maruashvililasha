@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasha
 - 👀 interested in iOS Development
-- 🛸 Currently on: Uncle Bob's - Clean Architecture, Gang of Four Design Patterns, DDD, TDD, Algorithms and Data Structures
+- 🛸 Currently on: TCA
 - 📫 How to reach me maruashvililasha@gmail.com
 
 <!---
