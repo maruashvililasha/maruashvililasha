@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Lasha
-- 👀 interested in iOS Development
-- 🛸 Currently on: TCA
-- 📫 How to reach me maruashvililasha@gmail.com
-- 💂🏻‍♀️ [Portfolio](https://www.mobify.pro/lasha)
-- 📱 [Mobify - App Development Agency](https://www.mobify.pro)
+- 👾 iOS Engineer
+- 🛸 Currently on: [Mobify | App Development Studio](https://www.mobify.pro)
+- 📫 How to reach me lasha@mobify.pro
+- 🥷🏻 [Portfolio](https://www.mobify.pro/lasha)
 
 <!---
 maruashvililasha/maruashvililasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
